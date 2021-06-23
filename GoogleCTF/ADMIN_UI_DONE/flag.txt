@@ -1,0 +1,7 @@
+./conn.sh
+2
+../flag  #this is what we call Path Traversal Bug.. check: https://www.owasp.org/index.php/Path_Traversal
+
+
+
+CTF{I_luv_buggy_sOFtware}

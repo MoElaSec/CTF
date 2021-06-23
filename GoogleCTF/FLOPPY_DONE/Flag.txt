@@ -1,0 +1,14 @@
+curl https://storage.googleapis.com/gctf-2018-attachments/4e69382f661878c7da8f8b6b8bf73a20acd6f04ec253020100dfedbd5083bb39 -o Floppy.zip
+
+unzip  Floppy.zip
+
+binwalk -e foo.ico 
+
+cd _foo.ico.extracted/
+
+cat driver.txt | grep CTF
+
+
+
+
+CTF{qeY80sU6Ktko8BJW}

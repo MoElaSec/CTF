@@ -1,0 +1,11 @@
+mv (binary_Attachment) Letter.zip
+unzip Letter.zip
+
+1-higlight the password: black section to get Flag
+
+or
+
+2-use imageMagick u can change (PDF-->HTML) for example and read the ctf from the code
+
+
+​ CTF{ICanReadDis}

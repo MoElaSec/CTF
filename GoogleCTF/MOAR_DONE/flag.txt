@@ -1,0 +1,5 @@
+What I Did to get the flag:
+./connect.sh 
+!/cat /home/moar/disable_dmz.sh
+
+CTF{SOmething-CATastr0phic}
